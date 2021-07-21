@@ -56,6 +56,18 @@
                                     <action selector="clickMeButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="toe-2N-aUt"/>
                                 </connections>
                             </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.90000000000000002" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="family_bottom" translatesAutoresizingMaskIntoConstraints="NO" id="7sy-3G-X8m">
+                                <rect key="frame" x="36" y="458" width="342" height="439"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" alpha="0.89999997615814209" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="family top" translatesAutoresizingMaskIntoConstraints="NO" id="aLb-pY-DW9">
+                                <rect key="frame" x="36" y="312" width="338" height="439"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="cottage_cc_all" translatesAutoresizingMaskIntoConstraints="NO" id="wKn-yj-oPI">
+                                <rect key="frame" x="101" y="534" width="213" height="188"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -67,6 +79,9 @@
         </scene>
     </scenes>
     <resources>
+        <image name="cottage_cc_all" width="834" height="725"/>
+        <image name="family top" width="679" height="167"/>
+        <image name="family_bottom" width="679" height="444"/>
         <namedColor name="AccentColor">
             <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
