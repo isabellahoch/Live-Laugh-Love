@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
     @IBAction func clickMeButtonTapped(_ sender: Any) {
         
-        let message = "Did you know?"
+        let message = ""
         let alertController = UIAlertController(
             title: "", // This gets overridden below.
             message: message,
