@@ -13,6 +13,7 @@
 		DC70CB3026A795E8002D6207 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC70CB2E26A795E8002D6207 /* Main.storyboard */; };
 		DC70CB3226A795EB002D6207 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC70CB3126A795EB002D6207 /* Assets.xcassets */; };
 		DC70CB3526A795EB002D6207 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC70CB3326A795EB002D6207 /* LaunchScreen.storyboard */; };
+		DC70CB3D26A796C7002D6207 /* Rae-Dunn.otf in Resources */ = {isa = PBXBuildFile; fileRef = DC70CB3C26A796C7002D6207 /* Rae-Dunn.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DC70CB3126A795EB002D6207 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC70CB3426A795EB002D6207 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC70CB3626A795EB002D6207 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC70CB3C26A796C7002D6207 /* Rae-Dunn.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Rae-Dunn.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		DC70CB2726A795E8002D6207 /* Live-Laugh-Love */ = {
 			isa = PBXGroup;
 			children = (
+				DC70CB3C26A796C7002D6207 /* Rae-Dunn.otf */,
 				DC70CB2826A795E8002D6207 /* AppDelegate.swift */,
 				DC70CB2A26A795E8002D6207 /* SceneDelegate.swift */,
 				DC70CB2C26A795E8002D6207 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DC70CB3526A795EB002D6207 /* LaunchScreen.storyboard in Resources */,
+				DC70CB3D26A796C7002D6207 /* Rae-Dunn.otf in Resources */,
 				DC70CB3226A795EB002D6207 /* Assets.xcassets in Resources */,
 				DC70CB3026A795E8002D6207 /* Main.storyboard in Resources */,
 			);
